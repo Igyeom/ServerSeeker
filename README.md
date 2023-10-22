@@ -1,9 +1,9 @@
 # ServerSeeker Python Wrapper
 
-This is a [Python wrapper](https://pypi.org/project/serverseeker/) for [ServerSeeker](https://serverseeker.net/) designed to be used as a [CLI](https://en.wikipedia.org/wiki/Command-line_interface). The original API was written by a user going by [DAM](https://damcraft.de/) and the [API documentation](https://serverseeker.net/docs) can be found here: [Link](https://serverseeker.net/docs)
+This is a Python wrapper for [ServerSeeker](https://serverseeker.net/) designed to be used as a [CLI](https://en.wikipedia.org/wiki/Command-line_interface). The original API was written by a user going by [DAM](https://damcraft.de/) and the [API documentation](https://serverseeker.net/docs) can be found here: [Link](https://serverseeker.net/docs)
 
 ## Installation
-Run `pip install serverseeker` on your terminal.
+Installation by `pip` will be supported in the near future. However, for right now: you can download the `.exe` file found on the [releases](https://github.com/Igyeom/ServerSeeker/releases) tab and drag it to a folder that is added to the PATH environment variable.<br><br>
 
 ## Quickstart
 ### API Key
